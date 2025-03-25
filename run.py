@@ -8,7 +8,7 @@ app.secret_key = "asldfmlalj8q7iqnqoiyioaiahlk"  # Change this!
 # TikTok App Credentials (replace with yours)
 CLIENT_KEY = "sbawkbclchq1cm2dgi"
 CLIENT_SECRET = "iY9uyEelgh7viCEN7pToxD8PDJY7nC6p"
-REDIRECT_URI = "https://1766-116-199-207-176.ngrok-free.app/callback"  # Must match TikTok Dev Portal
+REDIRECT_URI = "https://tiktokapi-mowy.onrender.com/callback"  # Must match TikTok Dev Portal
 
 VIDEO_LIST_URL = "https://open.tiktokapis.com/v2/video/list/?fields=id,title,cover_image_url"
 
